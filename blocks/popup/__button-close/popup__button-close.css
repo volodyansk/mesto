@@ -7,8 +7,8 @@
   height: 32px;
   padding: 0;
   border: none;
-  background: transparent url("../../../images/Close\ Icon.svg") no-repeat
-    center / contain;
+  background: transparent url("../../../images/Close.Icon.svg") no-repeat center /
+    contain;
   transition: 0.7s;
 }
 
