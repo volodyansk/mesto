@@ -9,7 +9,6 @@
   border: none;
   background: transparent url("../../../images/Close.Icon.svg") no-repeat center /
     contain;
-  transition: 0.7s;
 }
 
 @media screen and (max-width: 580px) {
@@ -23,4 +22,5 @@
 
 .popup__button-close:hover {
   opacity: 0.6;
+  transition: opacity 0.7s;
 }
