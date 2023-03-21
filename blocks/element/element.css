@@ -4,7 +4,7 @@
   box-sizing: border-box;
   border-radius: 10px;
   background: #fff;
-  height: 361px;
+  width: 282px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;

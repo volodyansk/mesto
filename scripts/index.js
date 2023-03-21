@@ -6,8 +6,8 @@ const popupButtonClose = popup.querySelector('.popup__button-close');
 
 const profileBox = document.querySelector('.profile');
 const profileEdit = profileBox.querySelector('.profile__button-edit');
-const profileTitle = profileBox.querySelector('.profile-info__title');
-const profileSubtitle = profileBox.querySelector('.profile-info__subtitle');
+const profileTitle = profileBox.querySelector('.profile__info-title');
+const profileSubtitle = profileBox.querySelector('.profile__info-subtitle');
 
 
 function openPopup() {

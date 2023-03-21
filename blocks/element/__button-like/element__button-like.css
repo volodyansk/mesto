@@ -1,5 +1,7 @@
 .element__button-like {
   background: url(../../../images/Like.svg);
+  background-repeat: no-repeat;
+  background-color: transparent;
   border: none;
   cursor: pointer;
   width: 22px;
